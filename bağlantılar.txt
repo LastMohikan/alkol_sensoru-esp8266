@@ -1,0 +1,7 @@
+| Donanım Bileşeni | ESP8266 GPIO / Pin     
+| ---------------- | ---------------------- 
+| **MQ-3 Sensör**  | `A0`                  
+| **Buzzer**       | `D5` (GPIO14)         
+| **Kırmızı LED**  | `D6` (GPIO12)         
+| **Yeşil LED**    | `D7` (GPIO13)         
+| **OLED Ekran**   | `SDA → D2`, `SCL → D1` 
